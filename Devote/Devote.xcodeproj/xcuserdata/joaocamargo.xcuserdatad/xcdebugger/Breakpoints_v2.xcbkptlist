@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BC2693F5-0C7D-4997-B0AA-C7F163831706"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "382D671A-6145-42A4-8F12-DA8441A657F4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Devote/View/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "382D671A-6145-42A4-8F12-DA8441A657F4 - 21d4e4925bdb1de7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Devote.ContentView.init(task: Swift.String) -&gt; Devote.ContentView"
+                  moduleName = "Devote"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joaocamargo/macHD/SWIFT%20UI/UdemyMasterClass/DEVOTE/Devote/Devote/View/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "382D671A-6145-42A4-8F12-DA8441A657F4 - 4c5bba4590673218"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Devote.ContentView.init() -&gt; Devote.ContentView"
+                  moduleName = "Devote"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joaocamargo/macHD/SWIFT%20UI/UdemyMasterClass/DEVOTE/Devote/Devote/View/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "152">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
